@@ -1,0 +1,28 @@
+html{
+font-family: "Open Sans", sans-serif
+
+}
+h1{
+	font-family: "Anton", sans-serif;
+	font-size: 50px;
+	background: black;
+	/*border: 6px solid black;*/
+	width: 500px;
+	margin: 20px auto 20px;
+	text-align: center;
+	color: white;
+}
+body{
+	background: lightgrey;
+	margin: 0 auto;
+	max-width: 900px;
+	
+	color: black;
+	font-size: 1.5em;
+}
+#pic{
+	float: right;
+}
+footer{
+	font-size: 0.65em;
+}
