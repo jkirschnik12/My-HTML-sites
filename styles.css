@@ -1,9 +1,11 @@
 html{
-font-family: "Open Sans", sans-serif
+font-family: "Open Sans", cursive;
+background: lightgrey;
+
 
 }
 h1{
-	font-family: "Anton", sans-serif;
+	font-family: "Joti One", sans-serif;
 	font-size: 50px;
 	background: black;
 	/*border: 6px solid black;*/
@@ -12,11 +14,10 @@ h1{
 	text-align: center;
 	color: white;
 }
-body{
-	background: lightgrey;
+.body{
+	
 	margin: 0 auto;
 	max-width: 900px;
-	
 	color: black;
 	font-size: 1.5em;
 }
@@ -24,5 +25,11 @@ body{
 	float: right;
 }
 footer{
-	font-size: 0.65em;
+	color: white;
+	background: black;
+	font-size: 2em;
+	width: 100%;
+	text-align: center;
+	margin: 0;
 }
+
