@@ -1,20 +1,19 @@
-html{
-font-family: "Open Sans", cursive;
-background: lightgrey;
-
-
-}
 h1{
 	font-family: "Joti One", sans-serif;
 	font-size: 50px;
 	background: black;
 	/*border: 6px solid black;*/
 	width: 500px;
-	margin: 20px auto 20px;
+	margin: 20px auto;
 	text-align: center;
 	color: white;
 }
-.body{
+body{
+font-family: "Open Sans", cursive;
+background: lightgrey;
+margin: 0;
+}
+.List{
 	
 	margin: 0 auto;
 	max-width: 900px;
@@ -22,6 +21,10 @@ h1{
 	font-size: 1.5em;
 }
 #pic{
+	width: 400px;
+	height: 400px;
+	transform: rotate(90deg);
+	margin-right: 30px;
 	float: right;
 }
 footer{
@@ -30,6 +33,12 @@ footer{
 	font-size: 2em;
 	width: 100%;
 	text-align: center;
-	margin: 0;
+	padding-bottom: 2%;
+	margin: 0 auto;
+}
+#contact-info{
+	margin-top: 14px;
+	font-size: 14px;
+
 }
 
