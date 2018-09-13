@@ -13,20 +13,6 @@ font-family: "Open Sans", cursive;
 background: lightgrey;
 margin: 0;
 }
-.List{
-	
-	margin: 0 auto;
-	max-width: 900px;
-	color: black;
-	font-size: 1.5em;
-}
-#pic{
-	width: 400px;
-	height: 400px;
-	transform: rotate(90deg);
-	margin-right: 30px;
-	float: right;
-}
 footer{
 	color: white;
 	background: black;
@@ -41,4 +27,3 @@ footer{
 	font-size: 14px;
 
 }
-
